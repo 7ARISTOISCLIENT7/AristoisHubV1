@@ -1,3 +1,4 @@
+--MAINSCRIPT--
 local Version = "DBV1"
 local ashversioncheck
 
